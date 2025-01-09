@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@line/bot-sdk": "^8.4.1",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.16.1",
+    "npm": "9.5.1"
+  },
+  "name": "line-advics-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndamanDev/Line-Advics-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndamanDev/Line-Advics-Node/issues"
+  },
+  "homepage": "https://github.com/AndamanDev/Line-Advics-Node#readme",
+  "description": ""
+}
